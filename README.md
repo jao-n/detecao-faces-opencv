@@ -6,7 +6,7 @@ Sistema de detecção facial em imagens utilizando OpenCV e o classificador Haar
 
 Este código detecta faces humanas em imagens, desenhando retângulos verdes ao redor de cada rosto encontrado. Ideal para aprendizado em visão computacional e processamento de imagens.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Carregamento inteligente de imagens** (suporte a vários formatos)
 - **Pré-processamento automático** (conversão para tons de cinza)
